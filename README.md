@@ -1,1 +1,1 @@
-# natural-deduction
+# empty-deduction
